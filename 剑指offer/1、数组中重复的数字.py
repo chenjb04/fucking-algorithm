@@ -22,9 +22,10 @@ Related Topics 数组 哈希表
 from typing import List
 
 
+"""
+使用hash
+"""
 def findRepeatNumber(nums: List[int]) -> int:
-	if not nums:
-		return 0
 	n = len(nums)
 	hash_map = {}
 	for i in range(n):
@@ -37,6 +38,4 @@ def findRepeatNumber(nums: List[int]) -> int:
 
 if __name__ == '__main__':
 	nums = [2, 3, 1, 0, 2, 5, 3]
-	print(findRepeatNumber(nums))
-	nums = []
 	print(findRepeatNumber(nums))
