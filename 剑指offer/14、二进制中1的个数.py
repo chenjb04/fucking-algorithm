@@ -30,6 +30,21 @@ def hammingWeight(n: int) -> int:
 	return count
 
 
+"""
+位操作 与运算
+ n & 1 = 0 ，则 n 二进制 最右一位 为 0
+ n & 1 = 1， 则 n 二进制 最右一位 为 1
+
+"""
+def hammingWeight1(n: int) -> int:
+	count = 0
+	while n:
+		count += n & 1
+		n >>= 1
+	return count
+
+
 if __name__ == '__main__':
 	n = 9
 	print(hammingWeight(n))
+	print(hammingWeight1(n))
