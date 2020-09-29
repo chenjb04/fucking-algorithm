@@ -25,6 +25,10 @@
 #         self.left = None
 #         self.right = None
 
+
+"""
+二叉树最大深度：即为 左子树的深度 和 右子树的深度 最大值 加上 根节点那一层  max(root.left, root.right) + 1
+"""
 class Solution:
     def maxDepth(self, root: TreeNode) -> int:
         if not root:
