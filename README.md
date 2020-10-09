@@ -90,3 +90,5 @@
 ## 回溯算法
 
 [46全排列](https://github.com/chenjb04/Python-Data-structure-algorithm/blob/master/LeetCode/%E5%9B%9E%E6%BA%AF%E7%AE%97%E6%B3%95/46%E5%85%A8%E6%8E%92%E5%88%97.py)
+
+[51N皇后](https://github.com/chenjb04/Python-Data-structure-algorithm/blob/master/LeetCode/%E5%9B%9E%E6%BA%AF%E7%AE%97%E6%B3%95/51N%E7%9A%87%E5%90%8E.py)
