@@ -39,7 +39,27 @@
 #  Related Topics 栈 设计
 
 
-# leetcode submit region begin(Prohibit modification and deletion)
+"""
+解题思路：
+    使用两个栈，一个栈(stack)和普通的栈一样，一个栈为最小栈(min_stack)，用来存放最小元素的栈，保证栈顶一定是最小元素，
+    那么只需要返回最小栈的栈顶元素，即为题解。
+
+    push操作：
+        stack栈正常push数据x，判断min_stack栈是否为空
+        min_stack栈为空，把x也push到min_stack栈
+        min_stack栈不为空且x小于等于min_stack栈顶元素，则x push到min_stack栈
+        min_stack栈不为空且x大于min_stack栈顶元素，则x 不用push到min_stack栈
+
+    pop操作：
+        stack栈正常pop, 如果stack栈pop的值和min_stack栈栈顶元素相等，则min_stack栈也pop
+
+    top操作:
+        直接返回stack栈顶元素
+
+    getmin操作:
+        返回min_stack栈顶元素即为最小元素
+
+"""
 class MinStack:
 
     def __init__(self):
