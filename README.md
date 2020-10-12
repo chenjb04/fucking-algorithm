@@ -44,7 +44,7 @@
 [448找到所有数组中消失的数字](https://github.com/chenjb04/Python-Data-structure-algorithm/blob/master/LeetCode/%E6%95%B0%E7%BB%84/448%E6%89%BE%E5%88%B0%E6%89%80%E6%9C%89%E6%95%B0%E7%BB%84%E4%B8%AD%E6%B6%88%E5%A4%B1%E7%9A%84%E6%95%B0%E5%AD%97.py)
 ##  位运算
 [461汉明距离](https://github.com/chenjb04/Python-Data-structure-algorithm/blob/master/LeetCode/%E4%BD%8D%E8%BF%90%E7%AE%97/461%E6%B1%89%E6%98%8E%E8%B7%9D%E7%A6%BB.py)
-## 栈
+## 栈和队列
 [155最小栈](https://github.com/chenjb04/Python-Data-structure-algorithm/blob/master/LeetCode/%E6%A0%88/155%E6%9C%80%E5%B0%8F%E6%A0%88.py)
 
 [232用栈实现队列](https://github.com/chenjb04/fucking-algorithm/blob/master/LeetCode/%E6%A0%88/232%E7%94%A8%E6%A0%88%E5%AE%9E%E7%8E%B0%E9%98%9F%E5%88%97.py)
