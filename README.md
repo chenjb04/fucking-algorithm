@@ -46,6 +46,9 @@
 [461汉明距离](https://github.com/chenjb04/Python-Data-structure-algorithm/blob/master/LeetCode/%E4%BD%8D%E8%BF%90%E7%AE%97/461%E6%B1%89%E6%98%8E%E8%B7%9D%E7%A6%BB.py)
 ## 栈
 [155最小栈](https://github.com/chenjb04/Python-Data-structure-algorithm/blob/master/LeetCode/%E6%A0%88/155%E6%9C%80%E5%B0%8F%E6%A0%88.py)
+
+[232用栈实现队列](https://github.com/chenjb04/fucking-algorithm/blob/master/LeetCode/%E6%A0%88/232%E7%94%A8%E6%A0%88%E5%AE%9E%E7%8E%B0%E9%98%9F%E5%88%97.py)
+
 ## 链表
 [2两数相加](https://github.com/chenjb04/Python-Data-structure-algorithm/blob/master/LeetCode/%E9%93%BE%E8%A1%A8/2%E4%B8%A4%E6%95%B0%E7%9B%B8%E5%8A%A0.py)
 
