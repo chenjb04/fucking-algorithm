@@ -55,6 +55,8 @@
 
 [用一个栈实现另一个栈的排序](https://github.com/chenjb04/fucking-algorithm/blob/master/LeetCode/%E6%A0%88%E5%92%8C%E9%98%9F%E5%88%97/%E7%94%A8%E4%B8%80%E4%B8%AA%E6%A0%88%E5%AE%9E%E7%8E%B0%E5%8F%A6%E5%A4%96%E4%B8%80%E4%B8%AA%E6%A0%88%E7%9A%84%E6%8E%92%E5%BA%8F.py)
 
+[生成窗口最大值数组](https://github.com/chenjb04/fucking-algorithm/blob/master/LeetCode/%E6%A0%88%E5%92%8C%E9%98%9F%E5%88%97/%E7%94%9F%E6%88%90%E7%AA%97%E5%8F%A3%E6%9C%80%E5%A4%A7%E5%80%BC%E6%95%B0%E7%BB%84.py)
+
 ## 链表
 [2两数相加](https://github.com/chenjb04/Python-Data-structure-algorithm/blob/master/LeetCode/%E9%93%BE%E8%A1%A8/2%E4%B8%A4%E6%95%B0%E7%9B%B8%E5%8A%A0.py)
 
