@@ -6,11 +6,15 @@
 
 [28实现strStr()](https://github.com/chenjb04/Python-Data-structure-algorithm/blob/master/LeetCode/%E5%AD%97%E7%AC%A6%E4%B8%B2/28%E5%AE%9E%E7%8E%B0strStr().py)
 
+[242有效的字母异位词](https://github.com/chenjb04/fucking-algorithm/blob/master/LeetCode/%E5%AD%97%E7%AC%A6%E4%B8%B2/242%E6%9C%89%E6%95%88%E7%9A%84%E5%AD%97%E6%AF%8D%E5%BC%82%E4%BD%8D%E8%AF%8D.py)
+
 [344反转字符串](https://github.com/chenjb04/Python-Data-structure-algorithm/blob/master/LeetCode/%E5%AD%97%E7%AC%A6%E4%B8%B2/344%E5%8F%8D%E8%BD%AC%E5%AD%97%E7%AC%A6%E4%B8%B2.py)
 
 [387字符串中的第一个唯一字符](https://github.com/chenjb04/Python-Data-structure-algorithm/blob/master/LeetCode/%E5%AD%97%E7%AC%A6%E4%B8%B2/387%E5%AD%97%E7%AC%A6%E4%B8%B2%E4%B8%AD%E7%9A%84%E7%AC%AC%E4%B8%80%E4%B8%AA%E5%94%AF%E4%B8%80%E5%AD%97%E7%AC%A6.py)
 [对称字符串的最大长度](https://github.com/chenjb04/Python-Data-structure-algorithm/tree/master/LeetCode/%E5%AD%97%E7%AC%A6%E4%B8%B2)
+
 ## 数组
+
 [1两数之和](https://github.com/chenjb04/Python-Data-structure-algorithm/blob/master/LeetCode/%E6%95%B0%E7%BB%84/1%E4%B8%A4%E6%95%B0%E4%B9%8B%E5%92%8C.py)
 
 [4寻找两个正序数组的中位数](https://github.com/chenjb04/Python-Data-structure-algorithm/blob/master/LeetCode/%E6%95%B0%E7%BB%84/4%E5%AF%BB%E6%89%BE%E4%B8%A4%E4%B8%AA%E6%AD%A3%E5%BA%8F%E6%95%B0%E7%BB%84%E7%9A%84%E4%B8%AD%E4%BD%8D%E6%95%B0.py)
